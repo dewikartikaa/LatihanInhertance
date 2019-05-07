@@ -1,0 +1,7 @@
+D:\dewi\LatihanInhertance\LatihanInhertance\bin\Debug\LatihanInhertance.exe.config
+D:\dewi\LatihanInhertance\LatihanInhertance\bin\Debug\LatihanInhertance.exe
+D:\dewi\LatihanInhertance\LatihanInhertance\bin\Debug\LatihanInhertance.pdb
+D:\dewi\LatihanInhertance\LatihanInhertance\obj\Debug\LatihanInhertance.csprojAssemblyReference.cache
+D:\dewi\LatihanInhertance\LatihanInhertance\obj\Debug\LatihanInhertance.csproj.CoreCompileInputs.cache
+D:\dewi\LatihanInhertance\LatihanInhertance\obj\Debug\LatihanInhertance.exe
+D:\dewi\LatihanInhertance\LatihanInhertance\obj\Debug\LatihanInhertance.pdb
